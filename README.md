@@ -35,6 +35,8 @@ If API validation was made, these API should be returning 404, 404 and 400. As a
 # N.B
 I treated these tests as if I was testing a live application which has validation and everything suppose to be working properly.
 
+Also included a video running the tests.
+
 
 
 
